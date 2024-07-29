@@ -1,70 +1,39 @@
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-
-
-<p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/b8bda8d243f53c191a69b.jpg">
-    <h1 align="center">WASI-BUG-BOT</h1>
-  </a>
-</p>
 <p align="center">
-<a href="https://github.com/wasi-ser"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=💀+💀+DANGER⚠️+DANGER+⚠️;𝐵𝛯𝛮+𝐵𝑈𝐺+𝐵𝛩𝑇+MADE+BY+BEN+;Follow+me+FACEBOOK+%4Comedianbenito._" alt="Typing SVG" /></a>
+  
+  <img src="https://telegra.ph/file/c0dd51c05d02eb80021e6.jpg" />
+</p>
 
-   ### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### WhatsApp Bug Bot By `𝐵𝛯𝛮 𝐵𝑈𝐺 𝐵𝛩𝑇`
+Very powerfull & dangerou WhatsApp Bug 🐛 bot. 
+### Bot Features
+*⚠️ 
 
-   
-   
- MR WASI BUG BOT
-### this code copy from dj xeon  all credits for him
+1. Bug menu(full crash) 
 
-```
-atp update
-   
+2. Auto status views
 
-apt upgrade
-
-pkg update && pkg upgrade
-
-pkg install bash
-
- pkg install git
-
- pkg install nodejs
-
-pkg install ffmpeg
-
-pkg install wget
-
-pkg install imagemagick
-
- pkg install yarn
-
-termux-setup-storage
-```
-
-```
-git clone https://github.com/wasi-ser/WASI-BUG-BOT 
-```
-```
- cd WASI-BUG-BOT
-```
-```
-yarn install
-  ```
+3. Auto read chat
     
-```
-npm start
-```
+4. Auto bio (about)
+
+5. auto recording & typing
+
+6. Always online
+
+7. heroku full antiban
+
+8. Auto block
+
+9. public/private mode ⚠️*
+
+
+# Heroku deploy setup
+
+
+   1. - 🎭 `Star` 🌟 this repository.
+- If you don't have a GitHub account, [sign up](https://github.com/join) now. [video Tutorial](https://youtu.be/D9ep0hVF8-c?si=Rn0D1E5-VErXKlap)
+2.  - [FORK](https://github.com/Ben-toxic/DR-BEN-BUG-BOT/fork) this repository.
+
+
+  
