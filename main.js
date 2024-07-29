@@ -27,7 +27,7 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "923192173398"
+let phoneNumber = "254719485000"
 let owner = JSON.parse(fs.readFileSync('./database/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -107,7 +107,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
             if (!XeonBotInc.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
             if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
             const m = smsg(XeonBotInc, mek, store)
-            require("./wasibugv1")(XeonBotInc, m, chatUpdate, store)
+            require("./benbugv1")(XeonBotInc, m, chatUpdate, store)
         } catch (err) {
             console.log(err)
         }
@@ -171,10 +171,10 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ wasibugv1ᵇᵘᵍ ᵇᵒᵗ ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} Telegram CHANNEL:@wasitechx`))
+	        console.log(chalk.magenta(`\n${themeemoji} Telegram CHANNEL:@benbot`))
             console.log(chalk.magenta(`${themeemoji} GITHUB: Private `))
             console.log(chalk.magenta(`${themeemoji} INSTAGRAM: private `))
-            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 923192173398`))
+            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 254719485000`))
             console.log(chalk.magenta(`${themeemoji} CREDIT: @wasitechx\n`))
         }
         if (
